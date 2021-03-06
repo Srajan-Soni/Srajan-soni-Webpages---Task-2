@@ -1,0 +1,78 @@
+
+/*      Header      */
+
+#header{
+    position: relative;
+  
+}
+
+.owly-img{
+    position: absolute;
+    top: 5%;
+}
+
+#header .dt-sc-contact-info{
+    position: absolute;
+    top: 1%;
+    bottom: 99%;
+    margin-top: 20%;
+}
+
+.main-title-section-wrapper default{
+    position: absolute;
+    top: 10%;
+}
+
+.main-title-section-wrapper default{
+    
+    z-index: -1;
+}
+
+.vc_column-inner {
+    width: 100%;
+}
+.wpb_wrapper {
+    width: 100%;
+    height: 100px;
+    
+    
+}
+
+
+.vc_row wpb_row vc_row-fluid dt-sc-skin-highlight dt-sc-paper-pattern-bottom {
+    position: relative;
+}
+
+.vc_row wpb_row vc_row-fluid dt-sc-skin-highlight dt-sc-paper-pattern-bottom .dt-sc-icon-box type1 custom-style{
+    position: absolute;
+    
+} 
+
+.vc_row wpb_row vc_row-fluid dt-sc-skin-highlight dt-sc-paper-pattern-bottom .dt-sc-icon-box type1 custom-style{
+        position: absolute;
+}
+
+h2{
+    margin-left: 10%;
+    padding-left: 10%;
+}
+
+/*      Footer      */
+
+
+.vc_row wpb_row vc_inner vc_row-fluid{
+    width: 100%;
+    padding-left: 300px;
+    margin-left: 20%;
+
+}
+
+.vc_row wpb_row vc_inner vc_row-fluid .vc_column-inner {
+    padding-left: 10%;
+    margin-left: 30%;
+    position: absolute;
+    left: 10%;
+    justify-content: center;
+    align-content: center;
+}
+
